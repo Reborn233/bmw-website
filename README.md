@@ -1,13 +1,17 @@
-### Gundom
+### Bmw-website
 
 ```
 npm install
 ```
 
-```
-gulp watch
-```
+Run
 
 ```
-gulp build
+npm start
+```
+
+Build
+
+```
+npm run build
 ```
